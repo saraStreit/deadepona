@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("deadepona")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("deadeponaServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("deadepona")]
-[assembly: System.Reflection.AssemblyTitleAttribute("deadepona")]
+[assembly: System.Reflection.AssemblyProductAttribute("deadeponaServer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("deadeponaServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
