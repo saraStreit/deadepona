@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R5ep+TGBgX1yWCTnhrK3268+AQGVg9/2icmoUWz5zS0=",
+  "Hash": "Cu+gj5JJ8GDUHbdJmlkbTT9MF67cfAMqvC8+lWFKpi8=",
   "Source": "deadepona",
   "BasePath": "/",
   "Mode": "Root",
@@ -6883,40 +6883,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "X:\\eponaDev\\deadepona.ch\\newDesignRazor\\deadepona\\deadepona\\deadepona\\wwwroot\\css\\bootstrap\\header.css",
-      "SourceId": "deadepona",
-      "SourceType": "Discovered",
-      "ContentRoot": "X:\\eponaDev\\deadepona.ch\\newDesignRazor\\deadepona\\deadepona\\deadepona\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/header.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\header.css"
-    },
-    {
-      "Identity": "X:\\eponaDev\\deadepona.ch\\newDesignRazor\\deadepona\\deadepona\\deadepona\\wwwroot\\css\\custom\\header.css",
-      "SourceId": "deadepona",
-      "SourceType": "Discovered",
-      "ContentRoot": "X:\\eponaDev\\deadepona.ch\\newDesignRazor\\deadepona\\deadepona\\deadepona\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/custom/header.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\custom\\header.css"
     },
     {
       "Identity": "X:\\eponaDev\\deadepona.ch\\newDesignRazor\\deadepona\\deadepona\\deadepona\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deadepona", "deadepona\deadepona.csproj", "{82E60BCE-569F-4F12-A99E-2BA97F764140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deadeponaServer", "deadeponaServer\deadeponaServer.csproj", "{351F7763-7BAA-46C8-A542-4DC244E220E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deadeponaServer", "deadeponaServer\deadeponaServer.csproj", "{351F7763-7BAA-46C8-A542-4DC244E220E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

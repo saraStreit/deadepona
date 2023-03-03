@@ -1,0 +1,26 @@
+﻿div {
+    z-index: 10;
+    background-color: #252637;
+    border: 3px solid;
+    border-color: #76FFAD;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0 2% auto 0;
+    padding-left: 0;
+    text-align: right;
+    max-width: 100%;
+}
+
+nav ul li {
+    display: inline-block;
+    height: 130px;
+    margin-left: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #76FFAD;
+}
+
+

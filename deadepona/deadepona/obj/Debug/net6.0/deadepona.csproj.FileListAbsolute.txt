@@ -805,7 +805,6 @@ X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\staticwebassets.build.json
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\staticwebassets.development.json
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\bundle\deadepona.styles.css
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\projectbundle\deadepona.bundle.scp.css
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\deadepona.csproj.CopyComplete
@@ -813,3 +812,5 @@ X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\refint\deadepona.dll
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\deadepona.pdb
 X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\ref\deadepona.dll
+X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\Shared\Heading.razor.rz.scp.css
+X:\eponaDev\deadepona.ch\newDesignRazor\deadepona\deadepona\deadepona\obj\Debug\net6.0\scopedcss\Shared\NavigationItem.razor.rz.scp.css
