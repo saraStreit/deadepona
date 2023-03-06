@@ -109,7 +109,9 @@ main[b-epqdoz06rv] {
 }
 
 /* /Shared/NavigationItem.razor.rz.scp.css */
-div[b-80s7x052ap] {
+#nav-item[b-80s7x052ap] {
     color: #76FFAD;
-    margin: 10px;
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 6vw;
+    margin-right: 3vw;
 }

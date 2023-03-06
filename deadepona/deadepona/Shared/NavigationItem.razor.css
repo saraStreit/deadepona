@@ -1,4 +1,6 @@
-﻿div {
+﻿#nav-item {
     color: #76FFAD;
-    margin: 10px;
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 6vw;
+    margin-right: 3vw;
 }
