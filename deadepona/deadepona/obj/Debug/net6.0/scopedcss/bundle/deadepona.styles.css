@@ -15,7 +15,7 @@ nav ul[b-mt2056dcis] {
 
 nav ul li[b-mt2056dcis] {
     display: inline-block;
-    height: 130px;
+    height: 7vw;
     margin-left: 10px;
 }
 
@@ -112,6 +112,7 @@ main[b-epqdoz06rv] {
 #nav-item[b-80s7x052ap] {
     color: #76FFAD;
     font-family: 'Red Hat Mono', monospace;
-    font-size: 6vw;
-    margin-right: 3vw;
+    font-size: 3vw;
+    margin-right: 2vw;
+    margin-top: 1vw;
 }
